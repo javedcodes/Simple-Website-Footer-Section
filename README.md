@@ -29,7 +29,7 @@ To use this **Simple Website Footer Section**, visit:
 
 ## Video Preview
 
-[![Watch the video](https://img.youtube.com/vi/Eqgo3NHCoQg/0.jpg)](https://www.youtube.com/watch?v=Eqgo3NHCoQg)
+[![Watch the video](https://img.youtube.com/vi/zs-GBEkxvQU/0.jpg)](https://www.youtube.com/watch?v=zs-GBEkxvQU)
 
 ## Contributing
 
